@@ -1,0 +1,1 @@
+java -jar jruby-sinatra-windows_service.war -S rackup
