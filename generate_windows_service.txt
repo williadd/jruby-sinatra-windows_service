@@ -1,0 +1,7 @@
+Follow these instructions to generate the service:
+
+1) build the war file using buildwar.bat
+2) run the app using runwar.bat
+3) cd to yajsw/bat and run genConfig.bat <pid>, where <pid> is the process id of the process started in step 2
+4) modify yajsw/conf/wrapper.conf as you see fit
+4) cd to yajsw/bat and run installService.bat to install the service
