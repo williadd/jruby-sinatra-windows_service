@@ -1,0 +1,86 @@
+WARNING|wrapper|yajsw|15-01-15 12:07:11|YAJSW: yajsw-stable-11.11
+WARNING|wrapper|yajsw|15-01-15 12:07:11|OS   : Windows 7/6.1/amd64
+WARNING|wrapper|yajsw|15-01-15 12:07:11|JVM  : Oracle Corporation/1.7.0_60/C:\Program Files\Java\jre7/64
+INFO|wrapper|yajsw|15-01-15 12:07:11|ahessian jmx service bound to port 15002
+INFO|wrapper|yajsw|15-01-15 12:07:11|spawned system tray icon process with pid 6664
+INFO|wrapper|yajsw|15-01-15 12:07:11|working dir c:\devl\workspace\labs\sinatra
+INFO|wrapper|yajsw|15-01-15 12:07:11|started process with pid 8736
+WARNING|wrapper|yajsw|15-01-15 12:07:12|[id: 0x25b460a4, /127.0.0.1:55579 => /127.0.0.1:15002] connected
+INFO|8736/0|yajsw|15-01-15 12:07:12|[INFO] StandardFileSystemManager - Using "C:\TEMP\vfs_cache" as temporary files store.
+INFO|8736/0|yajsw|15-01-15 12:07:12|!! WARNING !! Windows JDK7 should set -Djava.net.preferIPv4Stack=true (see java bug 7179799 )
+INFO|8736/0|yajsw|15-01-15 12:07:19|error: org.jruby.exceptions.RaiseException: (EADDRINUSE) Address already in use - bind - Address already in use: bind
+INFO|wrapper|yajsw|15-01-15 12:07:20|restart process due to default exit code rule
+INFO|wrapper|yajsw|15-01-15 12:07:20|restart internal RUNNING
+INFO|wrapper|yajsw|15-01-15 12:07:20|stopping process with pid/timeout 8736 45000
+INFO|wrapper|yajsw|15-01-15 12:07:21|process exit code: 1
+INFO|wrapper|yajsw|15-01-15 12:07:26|working dir c:\devl\workspace\labs\sinatra
+INFO|wrapper|yajsw|15-01-15 12:07:26|started process with pid 8396
+INFO|8396/1|yajsw|15-01-15 12:07:26|[INFO] StandardFileSystemManager - Using "C:\TEMP\vfs_cache" as temporary files store.
+INFO|8396/1|yajsw|15-01-15 12:07:26|!! WARNING !! Windows JDK7 should set -Djava.net.preferIPv4Stack=true (see java bug 7179799 )
+INFO|8396/1|yajsw|15-01-15 12:07:34|error: org.jruby.exceptions.RaiseException: (EADDRINUSE) Address already in use - bind - Address already in use: bind
+INFO|wrapper|yajsw|15-01-15 12:07:35|restart process due to default exit code rule
+INFO|wrapper|yajsw|15-01-15 12:07:35|restart internal RUNNING
+INFO|wrapper|yajsw|15-01-15 12:07:35|stopping process with pid/timeout 8396 45000
+INFO|wrapper|yajsw|15-01-15 12:07:36|process exit code: 1
+INFO|wrapper|yajsw|15-01-15 12:07:41|working dir c:\devl\workspace\labs\sinatra
+INFO|wrapper|yajsw|15-01-15 12:07:41|started process with pid 5948
+INFO|5948/2|yajsw|15-01-15 12:07:41|[INFO] StandardFileSystemManager - Using "C:\TEMP\vfs_cache" as temporary files store.
+INFO|5948/2|yajsw|15-01-15 12:07:41|!! WARNING !! Windows JDK7 should set -Djava.net.preferIPv4Stack=true (see java bug 7179799 )
+INFO|5948/2|yajsw|15-01-15 12:07:49|error: org.jruby.exceptions.RaiseException: (EADDRINUSE) Address already in use - bind - Address already in use: bind
+INFO|wrapper|yajsw|15-01-15 12:07:50|restart process due to default exit code rule
+INFO|wrapper|yajsw|15-01-15 12:07:50|restart internal RUNNING
+INFO|wrapper|yajsw|15-01-15 12:07:50|stopping process with pid/timeout 5948 45000
+INFO|wrapper|yajsw|15-01-15 12:07:51|process exit code: 1
+INFO|wrapper|yajsw|15-01-15 12:07:56|working dir c:\devl\workspace\labs\sinatra
+INFO|wrapper|yajsw|15-01-15 12:07:56|started process with pid 8980
+INFO|8980/3|yajsw|15-01-15 12:07:56|[INFO] StandardFileSystemManager - Using "C:\TEMP\vfs_cache" as temporary files store.
+INFO|8980/3|yajsw|15-01-15 12:07:56|!! WARNING !! Windows JDK7 should set -Djava.net.preferIPv4Stack=true (see java bug 7179799 )
+INFO|8980/3|yajsw|15-01-15 12:08:03|error: org.jruby.exceptions.RaiseException: (EADDRINUSE) Address already in use - bind - Address already in use: bind
+INFO|wrapper|yajsw|15-01-15 12:08:05|restart process due to default exit code rule
+INFO|wrapper|yajsw|15-01-15 12:08:05|restart internal RUNNING
+INFO|wrapper|yajsw|15-01-15 12:08:05|stopping process with pid/timeout 8980 45000
+INFO|wrapper|yajsw|15-01-15 12:08:05|process exit code: 1
+INFO|wrapper|yajsw|15-01-15 12:08:10|working dir c:\devl\workspace\labs\sinatra
+INFO|wrapper|yajsw|15-01-15 12:08:10|started process with pid 8648
+INFO|8648/4|yajsw|15-01-15 12:08:11|[INFO] StandardFileSystemManager - Using "C:\TEMP\vfs_cache" as temporary files store.
+INFO|8648/4|yajsw|15-01-15 12:08:11|!! WARNING !! Windows JDK7 should set -Djava.net.preferIPv4Stack=true (see java bug 7179799 )
+INFO|wrapper|yajsw|15-01-15 12:08:33|Shutting down Wrapper
+INFO|wrapper|yajsw|15-01-15 12:08:33|stopping process with pid/timeout 8648 45000
+INFO|8648/4|yajsw|15-01-15 12:08:33|wrapper manager received stop command
+WARNING|wrapper|yajsw|15-01-15 12:08:33|[id: 0x25b460a4, /127.0.0.1:55579 => /127.0.0.1:15002] exception java.io.IOException: An existing connection was forcibly closed by the remote host
+INFO|wrapper|yajsw|15-01-15 12:08:34|shutdown wrapper due to exit code rule
+INFO|wrapper|yajsw|15-01-15 12:08:35|process exit code: 0
+WARNING|wrapper|yajsw|15-01-15 12:08:50|YAJSW: yajsw-stable-11.11
+WARNING|wrapper|yajsw|15-01-15 12:08:50|OS   : Windows 7/6.1/amd64
+WARNING|wrapper|yajsw|15-01-15 12:08:50|JVM  : Oracle Corporation/1.7.0_60/C:\Program Files\Java\jre7/64
+INFO|wrapper|yajsw|15-01-15 12:08:50|ahessian jmx service bound to port 15002
+INFO|wrapper|yajsw|15-01-15 12:08:50|spawned system tray icon process with pid 4972
+INFO|wrapper|yajsw|15-01-15 12:08:50|working dir c:\devl\workspace\labs\sinatra
+INFO|wrapper|yajsw|15-01-15 12:08:51|started process with pid 6688
+WARNING|wrapper|yajsw|15-01-15 12:08:51|[id: 0x41e59a62, /127.0.0.1:55828 => /127.0.0.1:15002] connected
+INFO|6688/0|yajsw|15-01-15 12:08:51|[INFO] StandardFileSystemManager - Using "C:\TEMP\vfs_cache" as temporary files store.
+INFO|6688/0|yajsw|15-01-15 12:08:51|!! WARNING !! Windows JDK7 should set -Djava.net.preferIPv4Stack=true (see java bug 7179799 )
+INFO|wrapper|yajsw|15-01-15 12:09:02|Shutting down Wrapper
+INFO|wrapper|yajsw|15-01-15 12:09:02|stopping process with pid/timeout 6688 45000
+INFO|6688/0|yajsw|15-01-15 12:09:02|wrapper manager received stop command
+WARNING|wrapper|yajsw|15-01-15 12:09:02|[id: 0x41e59a62, /127.0.0.1:55828 => /127.0.0.1:15002] exception java.io.IOException: An existing connection was forcibly closed by the remote host
+INFO|wrapper|yajsw|15-01-15 12:09:03|shutdown wrapper due to exit code rule
+INFO|wrapper|yajsw|15-01-15 12:09:04|process exit code: 0
+WARNING|wrapper|Service yajsw|15-01-15 12:10:48|YAJSW: yajsw-stable-11.11
+WARNING|wrapper|Service yajsw|15-01-15 12:10:48|OS   : Windows 7/6.1/amd64
+WARNING|wrapper|Service yajsw|15-01-15 12:10:48|JVM  : Oracle Corporation/1.7.0_60/C:\Program Files\Java\jre7/64
+INFO|wrapper|Service yajsw|15-01-15 12:10:48|ahessian jmx service bound to port 15002
+INFO|wrapper|Service yajsw|15-01-15 12:10:48|working dir C:\devl\workspace\labs\sinatra
+INFO|wrapper|Service yajsw|15-01-15 12:10:49|started process with pid 1688
+INFO|1688/0|Service yajsw|15-01-15 12:10:49|[INFO] StandardFileSystemManager - Using "C:\TEMP\vfs_cache" as temporary files store.
+INFO|1688/0|Service yajsw|15-01-15 12:10:49|!! WARNING !! Windows JDK7 should set -Djava.net.preferIPv4Stack=true (see java bug 7179799 )
+INFO|wrapper|Service yajsw|15-01-15 12:11:10|Win service stop - timeout: 30000
+INFO|wrapper|Service yajsw|15-01-15 12:11:10|Win service wrapper.control -> stopping application
+INFO|wrapper|Service yajsw|15-01-15 12:11:10|stopping process with pid/timeout 1688 45000
+INFO|1688/0|Service yajsw|15-01-15 12:11:10|wrapper manager received stop command
+INFO|wrapper|Service yajsw|15-01-15 12:11:11|process not in state RUNNING -> Delaying stop
+INFO|wrapper|Service yajsw|15-01-15 12:11:12|process exit code: 0
+INFO|wrapper|Service yajsw|15-01-15 12:11:12|Win service stop - after shutdown
+INFO|wrapper|Service yajsw|15-01-15 12:11:12|shutdown wrapper due to exit code rule
+INFO|wrapper|Service yajsw|15-01-15 12:11:12|Win service stop - before notify
+INFO|wrapper|Service yajsw|15-01-15 12:11:12|Win service terminated
